@@ -1,15 +1,12 @@
 # Hi there 👋
  
-
-
-
-<h2> Hi, I'm Fortunatus Ihedoro Onyeka! 
+<h2> I'm Fortunatus Ihedoro Onyeka! 
 <img align='right' src="https://dave4math.b-cdn.net/wp-content/uploads/2018/12/Outstanding-Programmers-scaled-1.jpeg" width="230">
-<p><em>Remote Full-stack web developer ready for adventure</em><img src="https://media.giphy.com/media/VRhsYYBw8AE36/giphy.gif" width="50"></p>
+<p><em>Remote Full-stack web developer ready for adventure</em>
 
 
 
-### <img src="https://media.giphy.com/media/l1J9PC411qxTzlp2U/giphy.gif" width="50"> A little more about me...  
+## A little more about me...  
 
 ```javascript
 const Fortune = {
