@@ -1,39 +1,31 @@
-# Hi there 👋
- 
-<h2> I'm Fortunatus Ihedoro Onyeka! 
-<img align='right' src="https://dave4math.b-cdn.net/wp-content/uploads/2018/12/Outstanding-Programmers-scaled-1.jpeg" width="230">
-<p><em>Remote Full-stack web developer ready for adventure</em>
 
+<h1 align="center">Hi I'm Ihedoro Fortunatus Onyeka &nbsp;(@fortuneonyeka)</h1>
+<h3 align="center">A Full-stack web developer from Nigeria.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gambit142&label=Views&color=blue&style=plastic" alt="fortunatus-ihedoro" /></p>
 
+## **About me** 👨🏿
 
-## A little more about me...  
+- I am currently studying **Full-stack web development** at ![](https://img.shields.io/badge/-Microverse-blueviolet)
+- I’m currently learning the best practices towards working as a remote software developer with the help of ![](https://img.shields.io/badge/-Microverse-blueviolet)
+- I'm interested in collaborating and contributing to open source projects. 👯
+- I would like to contribute to the field of `data science` 📈  and `cyber security` 🔐 in the future.
+- I have a Bachelors degree in Economics
+- In my spare time, I love playing football (Soccer).
+- listening to music and reading books. 
 
-```javascript
-const Fortune = {
-  lookingFor: "Front-end developer" || "Full-stack web developer",
-  pronouns: ["He", "his"],
-  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
-  Tailwind CSS],
-  askMeAbout: [Coding, Football, Forex],
-  challenge: "I am honing my React skills and picking up Vue",
-  funFacts: ['I have 2+ years of remote work experience with devs 
-  from all over the world',
-  ]
-}
-```
-<!-- 
-<p>You can check out my portfolio <a href="https://elizabeth-villalejos.netlify.app">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p> -->
-<!--
-**fortuneonyeka/fortuneonyeka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Languages & Frameworks** 📶 
 
-Here are some ideas to get you started:
+![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
+![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
+![Ruby](https://icongr.am/devicon/ruby-original-wordmark.svg?size=50&color=d26a6a)
+![Sass](https://icongr.am/devicon/sass-original.svg?size=50&color=currentColor)
+![Bootstrap](https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=50&color=e86d6d)
+![Rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=50&color=e98b8b)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **Tools** 🛠 
+
+![Npm](https://icongr.am/devicon/npm-original-wordmark.svg?size=50&color=currentColor)
+![Git](https://icongr.am/devicon/git-original.svg?size=50&color=currentColor)
+![GitHub](https://icongr.am/devicon/github-original.svg?size=50&color=e86d6d)
+![Webpack](https://icongr.am/devicon/webpack-plain-wordmark.svg?size=50&color=e98b8b)
+![Visual Studio](https://icongr.am/devicon/visualstudio-plain.svg?size=50&color=e98b8b)
