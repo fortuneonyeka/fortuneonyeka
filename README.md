@@ -1,11 +1,10 @@
 
 <h1 align="center">Hi I'm Ihedoro Fortunatus Onyeka &nbsp;(@fortuneonyeka)</h1>
-<h3 align="center">A Full-stack web developer from Nigeria.</h3>
+<h3 align="center">I am A Senior Full-stack web developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gambit142&label=Views&color=blue&style=plastic" alt="fortunatus-ihedoro" /></p>
 
 ## **About me** 👨🏿
 
-- I am currently a full-time **Web Developer** at ![Uniflow](https://www.universalflow.io/assets/logo.5bb96173.svg)
 - I’m currently using industry best practices to develop a world class data decentralized system 
 - I'm interested in collaborating and contributing to open source projects. 👯
 - I would like to contribute to the field of `data science` 📈  and `cyber security` 🔐 in the future.
