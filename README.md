@@ -16,11 +16,11 @@
 
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
 ![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
-![Nextjs](https://www.reddit.com/r/nextjs/comments/139j19t/shall_we_consider_this_new_logo/?rdt=53334)
+Nextjs
 ![Ruby](https://icongr.am/devicon/ruby-original-wordmark.svg?size=50&color=d26a6a)
 ![Sass](https://icongr.am/devicon/sass-original.svg?size=50&color=currentColor)
 ![Bootstrap](https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=50&color=e86d6d)
-![Tailwind CSS]
+Tailwind CSS
 ![Rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=50&color=e98b8b)
 
 ## **Tools** 🛠 
